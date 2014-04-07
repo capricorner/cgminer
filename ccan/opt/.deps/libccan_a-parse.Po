@@ -1,0 +1,32 @@
+opt/libccan_a-parse.o: opt/parse.c ../ccan/opt/opt.h \
+ ../ccan/compiler/compiler.h ../config.h \
+ ../ccan/typesafe_cb/typesafe_cb.h \
+ c:\mingw\lib\gcc\mingw32\4.8.1\include\stdbool.h \
+ c:\mingw\include\stdlib.h c:\mingw\include\_mingw.h \
+ c:\mingw\include\sdkddkver.h \
+ c:\mingw\lib\gcc\mingw32\4.8.1\include\stddef.h \
+ c:\mingw\include\string.h c:\mingw\include\assert.h opt/private.h
+
+../ccan/opt/opt.h:
+
+../ccan/compiler/compiler.h:
+
+../config.h:
+
+../ccan/typesafe_cb/typesafe_cb.h:
+
+c:\mingw\lib\gcc\mingw32\4.8.1\include\stdbool.h:
+
+c:\mingw\include\stdlib.h:
+
+c:\mingw\include\_mingw.h:
+
+c:\mingw\include\sdkddkver.h:
+
+c:\mingw\lib\gcc\mingw32\4.8.1\include\stddef.h:
+
+c:\mingw\include\string.h:
+
+c:\mingw\include\assert.h:
+
+opt/private.h:
